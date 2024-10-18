@@ -23,4 +23,4 @@ print(resultado)
 # print(primeiro_valor)
 # print(segundo_valor)
 # print(soma)
-# print(resultado) a
+# print(resultado)a
