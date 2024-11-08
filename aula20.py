@@ -6,7 +6,15 @@
 # Também existe o tipo de dado chamado None que é usado para representar um não valor    
 
 entrada = input('[E]ntrar [S]air: ')
+senha_digitada = input('Senha: ')
 
-if Entrada == 'E':
+
+senha_permitida = '123456'
+if entrada == 'E' and senha_digitada == senha_permitida:
     print('Entrar')
-el
+else:
+    print('Sair')
+
+# Avaliação d ecuro circuito
+print(True and False and True)
+print(bool(''))
