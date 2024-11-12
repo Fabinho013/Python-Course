@@ -1,5 +1,5 @@
 """
-Formatação básica de strings
+Formatação básica de strings 
 s - string
 d - int
 f - float
