@@ -8,3 +8,4 @@ print(123)
 """ ISSO É DOCSTRINGS
  Permite comentários em multilinhas
  porém o interpretador do python lê"""
+ # .
