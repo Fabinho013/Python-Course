@@ -20,3 +20,4 @@ print(type('Fabinho')) # Se possui letra minuscula e parentes para executar, É 
 print(type('123'))
 print(type('-123'))
 print(type(1.1), type(0.0), type(-1.1))
+# .
