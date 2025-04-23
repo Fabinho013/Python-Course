@@ -20,3 +20,4 @@ print("Fábio \"Henrique\"") #geralmente não é utilizado esse  tipo de escape 
 
 # r
 print(r"Fábio \"Henrique\"") #geralmente isso é utilizado para expressões regulares
+# .
