@@ -25,3 +25,4 @@ except:
 #     print(f'O dobro de {numero_str} é {numero_float * 2:.2f}')
 # else:
 #     print('Isso não é um número')
+# .
