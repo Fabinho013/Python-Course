@@ -25,3 +25,5 @@ if velocidade_carro_passou_radar_1 and carro_no_alcance_do_radar:
 
 # Aula sobre variáveis, constantes e complexidade de código / 
 # Lesson on variables, constants, and code complexity
+# .
+
