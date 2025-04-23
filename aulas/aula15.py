@@ -8,3 +8,4 @@ int_numero_1 = int(numero_1) #Fazer a conversão do tipo de dado em outra variav
 int_numero_2 = int(numero_2) #Exemplo é colocar uma checagem antes de somar, para validar se não é uma string.
 
 print(f'A soma dos números é: {int_numero_1 + int_numero_2}')
+# .
