@@ -5,3 +5,4 @@
 # Existem vários operadores para "questionar".
 # Dentre eles o ==, que é um operador lógico que
 # questiona se o valor é igual a outro 
+# .
