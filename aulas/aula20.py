@@ -18,3 +18,4 @@ else:
 # Avaliação d ecuro circuito
 print(True and False and True)
 print(bool(''))
+# .
