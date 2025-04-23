@@ -24,3 +24,4 @@ print(resultado)
 # print(segundo_valor)
 # print(soma)
 # print(resultado)a
+# .
