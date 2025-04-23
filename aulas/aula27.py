@@ -35,3 +35,5 @@ if nome and idade:
 # Caso algum campo esteja vazio
 else:
     print("Desculpe, você deixou os campos vazios.")
+# .
+
