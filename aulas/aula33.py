@@ -24,3 +24,5 @@ print(string.capitalize())
 
 # Aula sobre tipos embutidos, documentação, tipos imutáveis e métodos de string /
 # Lesson on built-in types, documentation, immutable types, and string methods
+# .
+
