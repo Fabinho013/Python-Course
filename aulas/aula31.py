@@ -30,3 +30,5 @@ if passou_no_if is not None:
 
 # Aula sobre Flags, is, is not e None / 
 # Lesson on Flags, is, is not, and None
+# .
+
